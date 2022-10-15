@@ -1,2 +1,2 @@
-# machine-learning
-Studing Machine Learning
+# Machine Learning
+## Studing Machine Learning
